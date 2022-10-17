@@ -1,6 +1,8 @@
 # Programación Orientada a Objetos OOP
 
-## Ruby
+# <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="50px"/> Ruby 
+
+
 
 ### Ejercicios Módulo 3
 
